@@ -24,4 +24,4 @@ I have always had an interest in learning to code. Now I am doing it and loving 
 - *API*
 - *Bootstrap*
 
-**[Curriculum Vitae](./Stephendarcy_CV.docx)**
+**[Curriculum Vitae](./StephendarcyCV.pdf)**
