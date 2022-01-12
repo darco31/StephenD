@@ -17,7 +17,7 @@ I have always had an interest in learning to code. Now I am doing it and loving 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darco31&layout=compact&theme=radical)
 
-🌱 I’m currently learning ...
+:school:  I’m currently learning ...
 
 - *Flask*
 - *JQuery*
