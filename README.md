@@ -23,5 +23,6 @@ I have always had an interest in learning to code. Now I am doing it and loving 
 - *JQuery*
 - *API*
 - *Bootstrap*
+- *Django*
 
 **[Curriculum Vitae](./stephendarcyCV.pdf)**
